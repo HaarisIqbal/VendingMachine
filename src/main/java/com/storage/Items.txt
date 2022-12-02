@@ -1,0 +1,7 @@
+Tayto,1.00,8
+Fanta,1.55,0
+Mars Bar,1.10,6
+Twix,1.30,19
+Milky Way,1.20,7
+Cola,1.60,6
+Rolo,1.25,8
